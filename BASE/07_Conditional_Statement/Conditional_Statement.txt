@@ -1,0 +1,32 @@
+What is a Conditional Statement in C?
+Conditional Statements in C programming are used to make decisions based on the conditions. 
+Conditional statements execute sequentially when there is no condition around the statements. 
+If you put some condition for a block of statements, 
+the execution flow may change based on the result evaluated by the condition. 
+This process is called decision making in ‘C’.
+In ‘C’ programming conditional statements are possible with the help of the following two constructs:
+1. If statement
+
+2. If-else statement
+
+It is also called as branching as a program decides which statement to execute based on the result of the evaluated condition.
+
+In this tutorial, you will learn-
+
+If statement
+Relational Operators
+The If-Else statement
+Conditional Expressions
+Nested If-else Statements
+Nested Else-if statements
+
+
+
+
+If statement
+It is one of the powerful conditional statement. 
+If statement is responsible for modifying the flow of execution of a program. 
+If statement is always used with a condition. 
+The condition is evaluated first before executing any statement inside the body of If. 
+The syntax for if statement is as follows:
+
