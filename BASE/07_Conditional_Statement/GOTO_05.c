@@ -20,7 +20,7 @@ void main()
      A label is a valid variable name which is followed by a colon and is put immediately before the statement where the control needs to 
      be jumped/transferred unconditionally.
     */
-   int a=100;
+   int a=101;
    start:
    printf("NUMBER %d\n",a);
    if (a>=100)

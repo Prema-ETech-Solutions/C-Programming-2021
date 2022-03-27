@@ -4,7 +4,7 @@ void main()
     // Without Type casting
     int a;
     a = 15 / 6;
-    printf("%d", a);
+    printf("%d\n", a);
     // In the above C program, 15/6 alone will produce integer value as 2.
 
     // With Type casting
